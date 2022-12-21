@@ -1,0 +1,15 @@
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\bin\Debug\net7.0\dz.7.1.exe
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\bin\Debug\net7.0\dz.7.1.deps.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\bin\Debug\net7.0\dz.7.1.runtimeconfig.json
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\bin\Debug\net7.0\dz.7.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\bin\Debug\net7.0\dz.7.1.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.csproj.AssemblyReference.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.AssemblyInfoInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.AssemblyInfo.cs
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\refint\dz.7.1.dll
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.pdb
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\dz.7.1.genruntimeconfig.cache
+E:\GeekBrains\C-sharp\C-Sharp-dz\DZ7\dz.7.1\obj\Debug\net7.0\ref\dz.7.1.dll
